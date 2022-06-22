@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -i -r /$PWD/*.html /../
+cp -i -r /$PWD/*.html /..
