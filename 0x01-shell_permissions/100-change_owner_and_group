@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent $PWD; chgrp -R staff $PWD
+chown -R vincent $PWD\; chgrp -R staff $PWD
