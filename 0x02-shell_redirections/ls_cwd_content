@@ -1,0 +1,13 @@
+total 48
+drwxrwxr-x 2 dave dave 4096 ጁን  28 12:52 .
+drwxrwxr-x 6 dave dave 4096 ጁን  28 12:30 ..
+-rwxrwxrwx 1 dave dave   32 ጁን  27 23:00 0-hello_world
+-rwxrwxrwx 1 dave dave   28 ጁን  27 23:15 1-confused_smiley
+-rwxrwxrwx 1 dave dave   28 ጁን  27 23:19 2-hellofile
+-rwxrwxrwx 1 dave dave   39 ጁን  27 23:25 3-twofiles
+-rwxrwxrwx 1 dave dave   35 ጁን  28 12:34 4-lastlines
+-rwxrwxrwx 1 dave dave   35 ጁን  28 12:33 5-firstlines
+-rwxrwxr-x 1 dave dave   37 ጁን  28 12:50 6-third_line
+-rwxrwxrwx 1 dave dave   78 ጁን  28 00:01 7-file
+-rwxrwxrwx 1 dave dave   46 ጁን  28 12:48 8-cwd_state
+-rw-rw-r-- 1 dave dave  621 ጁን  28 12:52 ls_cwd_content
