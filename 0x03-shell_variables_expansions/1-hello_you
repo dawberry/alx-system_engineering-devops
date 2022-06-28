@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "hello $USER"
+=======
+echo "hello $(id -nu 1000)"
+>>>>>>> refs/remotes/origin/main
